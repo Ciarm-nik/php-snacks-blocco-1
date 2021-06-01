@@ -16,3 +16,7 @@ if(strlen($name) > 3 && strpos($email, '.') !== false && strpos($email, '@') !==
 ?>
 
 <!-- Controllo email da aggiungere come querystring : (?name=giuseppe&email=giuseppe@hotmail.com&age=24) -->
+
+/*
+
+/
